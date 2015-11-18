@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d859/proprietary/etc/firmware/BCM4339_003.001.009.0098.0415_B2_KR_ORC.hcd:system/etc/firmware/BCM4339_003.001.009.0098.0415_B2_KR_ORC.hcd \
     vendor/lge/d859/proprietary/etc/firmware/BCM4339_003.001.009.0105.0458_LGE_G3L_SPRINT_FM_ORC.hcd:system/etc/firmware/BCM4339_003.001.009.0105.0458_LGE_G3L_SPRINT_FM_ORC.hcd \
     vendor/lge/d859/proprietary/etc/firmware/BCM4339_003.001.009.0061.0313_FM_I2S.hcd:system/etc/firmware/BCM4339_003.001.009.0061.0313_FM_I2S.hcd \
-    vendor/lge/fd85/proprietary/etc/firmware/BCM4339_003.001.009.0061.0312.hcd:system/etc/firmware/BCM4339_003.001.009.0061.0312.hcd \
+    vendor/lge/d859/proprietary/etc/firmware/BCM4339_003.001.009.0061.0312.hcd:system/etc/firmware/BCM4339_003.001.009.0061.0312.hcd \
     vendor/lge/d859/proprietary/etc/permissions/com.broadcom.fm.xml:system/etc/permissions/com.broadcom.fm.xml \
     vendor/lge/d859/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/lge/d859/proprietary/bin/location-mq:system/bin/location-mq \
