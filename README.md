@@ -1,1 +1,1 @@
-# Vendor blobs from LG V20d for LG-D859
+# Vendor blobs from V10h+V20d for LG-D859
